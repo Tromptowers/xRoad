@@ -1,0 +1,9 @@
+[submodule "xroad-ui"]
+	path = xroad-ui
+	url = https://github.com/Tromptowers/xroad-ui.git
+[submodule "xroad-lib"]
+	path = xroad-lib
+	url = https://github.com/Tromptowers/xroad-lib.git
+[submodule "xroad-dal"]
+	path = xroad-dal
+	url = https://github.com/Tromptowers/xroad-dal.git
